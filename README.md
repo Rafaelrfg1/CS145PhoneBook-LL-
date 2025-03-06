@@ -1,1 +1,1 @@
-# CS145PhoneBook-LL-
+This is a phone book program that allows you to add, remove, display, and search for certain contacts. There will be a menu that presents you will all these options as well as an option to exit the program. For a little extra credit I used a lambda expression in some methods to make it easier to read which I don't think we have covered in class so far. My partners on this project were Ben and Kennedi. 
